@@ -1,14 +1,14 @@
 {
-  "name": "static-web",
+  "name": "static-website",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/Aniqzz/static-web#readme",
+  "homepage": "https://github.com/FWMtandc/static-website#readme",
   "bugs": {
-    "url": "https://github.com/Aniqzz/static-web/issues"
+    "url": "https://github.com/FWMtandc/static-website/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aniqzz/static-web.git"
+    "url": "git+https://github.com/FWMtandc/static-website.git"
   },
   "license": "ISC",
   "author": "",
@@ -18,7 +18,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@tailwindcss/cli": "^4.0.6",
-    "tailwindcss": "^4.0.6"
+    "@tailwindcss/cli": "^4.0.9",
+    "tailwindcss": "^4.0.9"
   }
 }
